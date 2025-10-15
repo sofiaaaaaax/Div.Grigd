@@ -1,0 +1,39 @@
+.grigd {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+  padding: 10px;
+  background: #000000;
+}
+.grigd > div {
+  background: hsl(268, 42%, 44%);
+  border: 3px solid #2b064e;
+  text-align: center;
+  font-size: 1.8em; 
+  padding: 10px 0;
+  width: 400px;           
+  height: 100px;           
+  line-height: 100px;  
+  font-size: 1.5em;
+  color: rgb(255, 238, 2);
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #000000;
+  background-image: url(SistemaSolarWallpapers.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  display: flex;               
+  justify-content: center;     
+  align-items: center;
+}
