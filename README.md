@@ -1,5 +1,5 @@
-## Nombre:
-# Sofía Lopez Holguin
+# Nombre:
+## Sofía Lopez Holguin
 
-## Materia:
-# Diseño y Edición Gráfica
+# Materia:
+## Diseño y Edición Gráfica
